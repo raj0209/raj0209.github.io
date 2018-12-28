@@ -2270,19 +2270,19 @@ header .logo a {
 }
 
 .contact-form ::-webkit-input-placeholder {
-	color: rgba(255, 255, 255, 0.3);
+	color: white;
 }
 .contact-form :-moz-placeholder {
-	color: rgba(255, 255, 255, 0.3);  /* Firefox 18- */
+	color: white;  /* Firefox 18- */
 }
 .contact-form ::-moz-placeholder {
-	color: rgba(255, 255, 255, 0.3);  /* Firefox 19+ */
+	color: white;  /* Firefox 19+ */
 }
 .contact-form :-ms-input-placeholder {
-	color: rgba(255, 255, 255, 0.3);
+	color: white;
 }
 .contact-form .placeholder {
-	color: rgba(255, 255, 255, 0.3) !important;
+	color: white;
 }
 
 #contact form {
