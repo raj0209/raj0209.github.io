@@ -1507,9 +1507,7 @@ header .logo a {
 	height: 23rem;
 	width: 23rem;
 	border-radius: 50%;
-	margin-left: -10px
-	margin-right: 2px;
-	float: left;
+	margin: -20 5 0 0;
 }
 .intro-info .lead {
 	text-align: left;
