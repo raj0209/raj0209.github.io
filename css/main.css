@@ -1502,14 +1502,14 @@ header .logo a {
 	margin-top: 5 rem;
 }
 .intro-info img {
-	height: 33rem;
+	height: 35rem;
 	width: 30rem;
 	border-radius: 50%;
 	margin: -20 5 0 0;
 }
 .intro-info .lead {
 	text-align: left;
-	padding-top: 10rem;
+	padding-top: 5rem;
 }
 
 .about-content {
